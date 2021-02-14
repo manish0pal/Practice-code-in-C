@@ -62,5 +62,21 @@
         "opt2_img":"https://learnado.in/mcq_pdf/10/qansimg/10_alg_ch2_q45_op1.png",
         "opt3_img":"https://learnado.in/mcq_pdf/10/qansimg/10_alg_ch2_q45_op2.png",
         "opt4_img":"https://learnado.in/mcq_pdf/10/qansimg/10_alg_ch2_q45_op3.png"
+    },
+    {
+    "mcq_id": "1",
+    "standerd": "10",
+    "subject": "Algebra",
+    "mcq_question": "15 pens and 3 notebooks cost Rs. 300. 4 pens and 2 notebooks cost\r\nRs. 110. How much is cost of notebook and pen respectively?",
+    "option_1": "Rs. 25 and Rs. 15",
+    "option_2": "Rs. 30 and Rs. 10",
+    "option_3": "Rs. 20 and Rs. 5",
+    "option_4": "Rs. 20 and Rs. 20",
+    "correct_answer": "Rs. 25 and Rs. 15",
+    "mcq_question_img": "",
+        "opt1_img":"",
+        "opt2_img":"",
+        "opt3_img":"",
+        "opt4_img":""
     }
     ]
